@@ -11,3 +11,5 @@ Deimos (hijos del dios griego), que podrían ser asteroides capturados6​7​
 similares al asteroide troyano (5261) Eureka. Sus características 
 superficiales recuerdan tanto a los cráteres de la Luna como a los 
 valles, desiertos y casquetes polares de la Tierra. 
+
+Argor is a planet that is the home of the Argorans.
