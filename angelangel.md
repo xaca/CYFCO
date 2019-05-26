@@ -3,4 +3,4 @@
 Cuando despego el ultimo cohete
 la tierra quedo en un calido abandono,
 Respiró profundo, y por varios años,
- una suave lluvia habitó la tierra. 
+ una suave lluvia la habitó.   
