@@ -1,4 +1,7 @@
 # Amor por la programacion
-este es un poema
-para hablar de la programacion
-de la felicidad
+Si yo pudiera programar mi corazón, 
+empezaría con el dolor constante a cero, 
+después haría una llamada a una función 
+que le enviara un decimal a la razón 
+y retornara la fracción como un entero. 
+ -tomado de internet-
